@@ -85,7 +85,7 @@ const VerifyingEmail = () => {
               variant="contained"
               fullWidth
               color="secondary"
-              onClick={() => navigate("/orders")}
+              onClick={() => navigate("/notes")}
             >
               Proceed to account
             </Button>
